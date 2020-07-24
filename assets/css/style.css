@@ -368,7 +368,8 @@ padding-top: 60px;
         left:25%;
     }
     .interns-location h2{
-        font-size: 18px;
+        font-size: 24px;
+        text-align: center;
     }
     .interns-location p{
         font-size: 14px;
