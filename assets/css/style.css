@@ -349,4 +349,10 @@ padding-top: 60px;
     .topbar-icon{
         display: none;
     }
+    .activity h2{
+        font-size:24px;
+    }
+     .activity p{
+        font-size: 14px;
+    }
 }
