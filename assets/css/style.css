@@ -358,6 +358,7 @@ padding-top: 60px;
     .activity img{
         margin-top: 44px;
         margin-left: 12px;
+        padding-left: 10px;
         position: absolute;
     }
     .activity-text{
