@@ -356,10 +356,8 @@ padding-top: 60px;
         font-size: 14px;
     }
     .activity img{
-        width: 40px;
-        height: 40px;
         margin-top: 44px;
-        margin-left: 18px;
+        margin-left: 12px;
         position: absolute;
     }
     .activity-text{
