@@ -367,6 +367,9 @@ padding-top: 60px;
         bottom: 50%;
         left:25%;
     }
+    .interns-location h2{
+        font-size: 18px;
+    }
     .interns-location p{
         font-size: 14px;
     }
