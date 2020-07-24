@@ -382,4 +382,11 @@ padding-top: 60px;
     .analytics-data p{
         font-size: 14px;
     }
+    #main-page {
+    position: relative;
+    top: 13%;
+    left: 22%;
+    width: 90%;
+    
+}
 }
